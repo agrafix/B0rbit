@@ -1,0 +1,1 @@
+"C:\Program Files\Python32\python.exe" build.py build
